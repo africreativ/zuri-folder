@@ -1,0 +1,18 @@
+.chessboard {
+    width: 640px;
+    height: 640px;
+    margin: 100px;
+    border: 5px solid #533;
+}
+.black {
+    float: left;
+    width: 128px;
+    height: 128px;
+    background-color: #999;
+}
+.white {
+    float: left;
+    width: 128px;
+    height: 128px;
+    background-color: #fff;
+}
